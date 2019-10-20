@@ -1,0 +1,11 @@
+D:\[OOP] - Object Oriented Programming\Test\6_9_TestingEmployeeController\6_9_TestingEmployeeController\bin\Debug\6_9_TestingEmployeeController.exe.config
+D:\[OOP] - Object Oriented Programming\Test\6_9_TestingEmployeeController\6_9_TestingEmployeeController\bin\Debug\6_9_TestingEmployeeController.exe
+D:\[OOP] - Object Oriented Programming\Test\6_9_TestingEmployeeController\6_9_TestingEmployeeController\bin\Debug\6_9_TestingEmployeeController.pdb
+D:\[OOP] - Object Oriented Programming\Test\6_9_TestingEmployeeController\6_9_TestingEmployeeController\bin\Debug\EntityFramework.dll
+D:\[OOP] - Object Oriented Programming\Test\6_9_TestingEmployeeController\6_9_TestingEmployeeController\bin\Debug\EntityFramework.SqlServer.dll
+D:\[OOP] - Object Oriented Programming\Test\6_9_TestingEmployeeController\6_9_TestingEmployeeController\bin\Debug\EntityFramework.xml
+D:\[OOP] - Object Oriented Programming\Test\6_9_TestingEmployeeController\6_9_TestingEmployeeController\bin\Debug\EntityFramework.SqlServer.xml
+D:\[OOP] - Object Oriented Programming\Test\6_9_TestingEmployeeController\6_9_TestingEmployeeController\obj\Debug\6_9_TestingEmployeeController.csprojAssemblyReference.cache
+D:\[OOP] - Object Oriented Programming\Test\6_9_TestingEmployeeController\6_9_TestingEmployeeController\obj\Debug\6_9_TestingEmployeeController.csproj.CopyComplete
+D:\[OOP] - Object Oriented Programming\Test\6_9_TestingEmployeeController\6_9_TestingEmployeeController\obj\Debug\6_9_TestingEmployeeController.exe
+D:\[OOP] - Object Oriented Programming\Test\6_9_TestingEmployeeController\6_9_TestingEmployeeController\obj\Debug\6_9_TestingEmployeeController.pdb

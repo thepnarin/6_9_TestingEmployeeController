@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6_9_TestingEmployeeController", "6_9_TestingEmployeeController\6_9_TestingEmployeeController.csproj", "{2AA9DCA7-50D4-4344-B694-7145D405C235}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestNinja.UnitTests", "TestNinja.UnitTests\TestNinja.UnitTests.csproj", "{B519353C-C7D0-47BC-A953-55E97BD0E97C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AA9DCA7-50D4-4344-B694-7145D405C235}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AA9DCA7-50D4-4344-B694-7145D405C235}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AA9DCA7-50D4-4344-B694-7145D405C235}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AA9DCA7-50D4-4344-B694-7145D405C235}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B519353C-C7D0-47BC-A953-55E97BD0E97C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B519353C-C7D0-47BC-A953-55E97BD0E97C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B519353C-C7D0-47BC-A953-55E97BD0E97C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B519353C-C7D0-47BC-A953-55E97BD0E97C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24795766-8C71-45CD-B6DF-73CC2860B415}
+	EndGlobalSection
+EndGlobal
